@@ -12,7 +12,7 @@
 		<img class="img-fluid hero-image" src="/images/myphoto.png" alt="Hana B. Ramores">
 	</div>
 
-	<div class="col-md-4 text-start">
+	<div class="col-md-4 text-start mx-auto">
 		<h1>About Me</h1>
 		<p>Passionate about creating seamless web experiences through front-end design and back-end development.</p>
 		<a href="/Hana_Ramores_Resume.pdf" 
@@ -24,7 +24,7 @@
 
 		<div class="row d-flex mt-3">
 			<div class="landingwidget col">
-				<h3>9</h3>
+				<h3>6</h3>
 				<p>Projects</p>
 			</div>
 			<div class="landingwidget col">
@@ -32,7 +32,7 @@
 				<p>Certificates</p>
 			</div>
 			<div class="landingwidget col">
-				<h3>1</h3>
+				<h3>0</h3>
 				<p>Yrs Exp.</p>
 			</div>
 		</div>

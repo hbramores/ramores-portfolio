@@ -32,28 +32,12 @@
     "link": "http://zuitt-bootcamp-prod-610-9633-ramores.s3-website.us-east-1.amazonaws.com/"
   },
   {
-    "id": 5,
-    "title": "Airline Booking System Mockup",
-    "image": "/images/project5.png",
-    "alt": "Airline Booking System Mockup",
-    "description": "Side Project: Conceptual design showcasing an intuitive UI for flight search, seat selection, and booking confirmation, focusing on user experience and workflow efficiency.",
-    "link": "#projects"
-  },
-  {
-    "id": 6,
-    "title": "Airline Booking System Prototype",
-    "image": "/images/project6.png",
-    "alt": "Airline Booking System Prototype",
-    "description": "Side Project: Interactive prototype simulating end-to-end airline booking functionalities, including flight search, reservation, payment processing, and real-time ticket management.",
-    "link": "#projects"
-  },
-  {
     "id": 7,
     "title": "Blog API Documentation",
     "image": "/images/project7.png",
     "alt": "Blog API Documentation",
     "description": "RESTful Blog API featuring user authentication, article creation, editing, deletion, and category management. Supports secure access control, comment functionality, and content publishing workflows. Publicly documented using Postman.",
-    "link": "YOUR_POSTMAN_DOCS_LINK"
+    "link": "https://documenter.getpostman.com/view/48221807/2sBXwpNWfF"
   },
   {
     "id": 8,
@@ -62,13 +46,5 @@
     "alt": "Blog Application",
     "description": "Full-stack MERN blogging platform that allows users to register, authenticate, create articles, manage posts, add comments, and explore published content through a responsive and user-friendly interface.",
     "link": "https://blog-application-three-green.vercel.app/"
-  },
-  {
-    "id": 9,
-    "title": "Short Courses Capstone",
-    "image": "/images/project6.png",
-    "alt": "Short Courses Capstone",
-    "description": "Placeholder for your Short courses capstone project.",
-    "link": "#projects"
   }
 ]
