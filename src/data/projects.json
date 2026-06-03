@@ -61,7 +61,7 @@
     "image": "/images/project8.png",
     "alt": "Blog Application",
     "description": "Full-stack MERN blogging platform that allows users to register, authenticate, create articles, manage posts, add comments, and explore published content through a responsive and user-friendly interface.",
-    "link": "https://blog-application-three-green.vercel.app"
+    "link": "https://blog-application-three-green.vercel.app/"
   },
   {
     "id": 9,
