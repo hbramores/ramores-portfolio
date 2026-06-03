@@ -17,9 +17,9 @@
   },
   {
     "id": 3,
-    "title": "Course Booking App",
+    "title": "Course Booking Application",
     "image": "/images/project3.png",
-    "alt": "Course Booking App",
+    "alt": "Course Booking Application",
     "description": "A MERN-stack course enrollment system featuring user registration, authentication, and profile management. Authenticated users can create, update, archive, and activate courses. The platform also allows users to browse available courses and enroll seamlessly.",
     "link": "https://course-booking-cxdd.vercel.app"
   },
@@ -49,19 +49,19 @@
   },
   {
     "id": 7,
-    "title": "Short Courses Capstone",
-    "image": "/images/project6.png",
-    "alt": "Short Courses Capstone",
-    "description": "Placeholder for your Short courses capstone project.",
-    "link": "#projects"
+    "title": "Blog API Documentation",
+    "image": "/images/project7.png",
+    "alt": "Blog API Documentation",
+    "description": "RESTful Blog API featuring user authentication, article creation, editing, deletion, and category management. Supports secure access control, comment functionality, and content publishing workflows. Publicly documented using Postman.",
+    "link": "YOUR_POSTMAN_DOCS_LINK"
   },
   {
     "id": 8,
-    "title": "Short Courses Capstone",
-    "image": "/images/project6.png",
-    "alt": "Short Courses Capstone",
-    "description": "Placeholder for your Short courses capstone project.",
-    "link": "#projects"
+    "title": "Blog Application",
+    "image": "/images/project8.png",
+    "alt": "Blog Application",
+    "description": "Full-stack MERN blogging platform that allows users to register, authenticate, create articles, manage posts, add comments, and explore published content through a responsive and user-friendly interface.",
+    "link": "blog-application-three-green.vercel.app"
   },
   {
     "id": 9,
