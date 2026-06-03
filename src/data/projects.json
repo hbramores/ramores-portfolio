@@ -5,7 +5,7 @@
     "image": "/images/project1.png",
     "alt": "E-commerce API Documentation",
     "description": "Dynamic E-Commerce Workflow Management. The system features dynamic routes for order processing, real-time inventory updates, and secure user authentication. It also supports seamless automated order reporting and comprehensive product management. Documented Backend API published publicly using Postman.",
-    "link": "#projects"
+    "link": "https://documenter.getpostman.com/view/48221807/2sBXqNmeFi"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "image": "/images/project2.png",
     "alt": "Course Booking API Documentation",
     "description": "RESTful API for managing course enrollments, featuring user registration, authentication, and retrieval of user details. Supports course creation, updates, archiving, activation, and student enrollment. Publicly documented using Postman.",
-    "link": "#projects"
+    "link": "https://documenter.getpostman.com/view/48221807/2sBXwpNBdm"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "image": "/images/project3.png",
     "alt": "Course Booking App",
     "description": "A MERN-stack course enrollment system featuring user registration, authentication, and profile management. Authenticated users can create, update, archive, and activate courses. The platform also allows users to browse available courses and enroll seamlessly.",
-    "link": "#projects"
+    "link": "https://course-booking-cxdd.vercel.app"
   },
   {
     "id": 4,
